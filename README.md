@@ -6,5 +6,6 @@ a=int(input('enter the number'))
 
 b=int(input('enter the number'))
 
+y=a+b
 
-print(a+b)
+print(y)
